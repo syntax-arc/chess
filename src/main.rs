@@ -1,6 +1,3 @@
-fn main() {
-    println!("Hello, world!");
-}
 use macroquad::prelude::*;
 
 #[macroquad::main("Chess")]
